@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9ACCF998-B8C2-4DF7-A7AD-780EC772315A}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Shelter.Client PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shelter/Client/PersistencyShelter.cs">
+    <Files>
+      <File FileName="Shelter/Client/PersistencyShelter.cs" Line="14" Column="96" />
+      <File FileName="Shelter/Client/Program.cs" Line="1" Column="1" />
+      <File FileName="Shelter/Client/Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="Shelter/Client/MainLayout.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shelter" expanded="True">
+            <Node name="Shelter.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shelter.Server PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

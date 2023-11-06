@@ -1,0 +1,65 @@
+﻿@page "/booking"
+@using mini.Shared.Models
+@inject HttpClient Http;
+
+<PageTitle>Shelter</PageTitle>
+
+<h1>Shelters</h1>
+
+<EditForm Model="booking"  OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="shelters" class="bold-label">Choose Shelter:</label>
+        <select @bind="booking.ShelterName" @bind:event="onchange" class="form-control">
+            @if (shelters == null)
+            {
+                <p><em>Loading...</em></p>
+            }
+            else
+                @foreach (var shelter in shelters)
+                {
+                    <option value="@shelter.navn">@shelter.navn</option>
+                }
+        </select>
+    </div>
+    <div class="col-md-12 mb-3">
+        <label for="Name">Name</label>
+        <InputText id="Name" @bind-Value="booking.Name" class="form-control" />
+    </div>
+    <div class="col-md-6 mb-3">
+        <label for="BookingID">BookingID</label>
+        <InputText id="BookingID" @bind-Value="booking.BookingID" class="form-control" />
+    </div>
+
+    <div class="col-12 mb-3">
+        <button type="submit" class="btn btn-primary">Add</button>
+    </div>
+</EditForm>
+
+
+@code {
+    mini.Shared.Models.Booking booking = new();
+
+    public async Task HandleValidSubmit()
+    {
+        await Http.PostAsJsonAsync<mini.Shared.Models.Booking>("api/bookings", booking);
+
+        booking = new(); // clear fields in form
+    }
+
+    private List<Shelter> shelters = new List<Shelter>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        shelters = await Http.GetFromJsonAsync<List<Shelter>>("api/shelter");
+    }
+
+
+    private void SelectShelter(ChangeEventArgs args)
+    {
+        string? selectedShelterName = args.Value?.ToString();
+        // You can perform actions with the selected shelter name here
+    }
+    }

@@ -1,0 +1,46 @@
+﻿@page "/bookingList"
+@using mini.Shared.Models
+@inject HttpClient Http;
+
+
+<PageTitle>BOOKINGS</PageTitle>
+
+<h1>BOOKINGS</h1>
+
+@if (bookings == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Booking ID</th>
+                <th>Shelter Name</th>
+                <th>Navn</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var booking in bookings)
+            {
+                <tr class="bookingRow">
+                    <td>@booking.BookingID</td>
+                    <td>@booking.ShelterName</td> <!-- Changed from ShelterNavn to ShelterName -->
+                    <td>@booking.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    private mini.Shared.Models.Booking[]? bookings;
+
+    protected override async Task OnInitializedAsync()
+    {
+        bookings = await Http.GetFromJsonAsync<mini.Shared.Models.Booking[]>("api/bookings");
+    }
+
+}
