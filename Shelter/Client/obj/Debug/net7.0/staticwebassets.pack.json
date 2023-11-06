@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/obj/Debug/net7.0/build-gz/wAAqH+vC.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/obj/Debug/net7.0/service-worker-assets.js",
+      "PackagePath": "staticwebassets/service-worker-assets.js"
+    },
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/obj/Debug/net7.0/service-worker/service-worker.published.js",
+      "PackagePath": "staticwebassets/service-worker.js"
+    },
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/wwwroot/icon-512.png",
+      "PackagePath": "staticwebassets/icon-512.png"
+    },
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/Mel/Projects/Shelter/Shelter/Client/wwwroot/manifest.json",
+      "PackagePath": "staticwebassets/manifest.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Shelter.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Shelter.Client.props",
+      "PackagePath": "build\\Shelter.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Shelter.Client.props",
+      "PackagePath": "buildMultiTargeting\\Shelter.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Shelter.Client.props",
+      "PackagePath": "buildTransitive\\Shelter.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
