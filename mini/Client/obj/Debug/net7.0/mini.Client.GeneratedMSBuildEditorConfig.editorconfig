@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = mini.Client
 build_property.RootNamespace = mini.Client
-build_property.ProjectDir = C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Client\
+build_property.ProjectDir = C:\Users\Amelia\source\repos\soekopaacykel\Shelter\mini\Client\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Client
+build_property.MSBuildProjectDirectory = C:\Users\Amelia\source\repos\soekopaacykel\Shelter\mini\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Client/App.razor]
+[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Client/Pages/Booking.razor]
+[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Client/Pages/Booking.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Client/Pages/BookingList.razor]
+[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Client/Pages/BookingList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ0xpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Client/Shared/SurveyPrompt.razor]
+[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Client/_Imports.razor]
+[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Client/Shared/MainLayout.razor]
+[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-tu9yjj9005
 
-[C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Client/Shared/NavMenu.razor]
+[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cm1wur5b9f

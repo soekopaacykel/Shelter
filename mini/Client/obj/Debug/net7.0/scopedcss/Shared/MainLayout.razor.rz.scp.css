@@ -1,19 +1,26 @@
+/* Main page container */
 .page[b-tu9yjj9005] {
     position: relative;
     display: flex;
     flex-direction: column;
+    background-color: white; /* Almost white background color */
+    color: #333; /* Dark text color */
 }
 
+/* Main content area */
 main[b-tu9yjj9005] {
     flex: 1;
 }
 
+
+/* Sidebar */
 .sidebar[b-tu9yjj9005] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, #001D0E 0%, #003C2B 70%); /* Deeper and different hues of green */
 }
 
+/* Top row (deepest dark green color color) */
 .top-row[b-tu9yjj9005] {
-    background-color: #f7f7f7;
+    background-color: #001D0E; /* Deepest-forest-green color for top row*/
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
@@ -21,21 +28,23 @@ main[b-tu9yjj9005] {
     align-items: center;
 }
 
-    .top-row[b-tu9yjj9005]  a, .top-row[b-tu9yjj9005]  .btn-link {
+    .top-row a[b-tu9yjj9005], .top-row .btn-link[b-tu9yjj9005] {
         white-space: nowrap;
         margin-left: 1.5rem;
         text-decoration: none;
+        color: #00563F; /* Deep-forest-green text color for top row links */
     }
 
-    .top-row[b-tu9yjj9005]  a:hover, .top-row[b-tu9yjj9005]  .btn-link:hover {
-        text-decoration: underline;
-    }
+        .top-row a:hover[b-tu9yjj9005], . top-row .btn-link:hover[b-tu9yjj9005] {
+            text-decoration: underline;
+        }
 
-    .top-row[b-tu9yjj9005]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+        .top-row a:first-child[b-tu9yjj9005] {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
 
+/* Hide top row on small screens */
 @media (max-width: 640.98px) {
     .top-row:not(.auth)[b-tu9yjj9005] {
         display: none;
@@ -45,7 +54,7 @@ main[b-tu9yjj9005] {
         justify-content: space-between;
     }
 
-    .top-row[b-tu9yjj9005]  a, .top-row[b-tu9yjj9005]  .btn-link {
+    .top-row a[b-tu9yjj9005], .top-row .btn-link[b-tu9yjj9005] {
         margin-left: 0;
     }
 }
