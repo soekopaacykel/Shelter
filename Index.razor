@@ -1,0 +1,37 @@
+﻿@page "/"
+@using Shelter.Client
+@using MongoDB.Bson
+
+<PageTitle>BOOKING AF SHELTER</PageTitle>
+
+<h1>Velkommen, opret din booking nu</h1>
+
+<p>Her kan du oprette en booking på en eller flere shelters rundt omkring i Aarhus kommune.</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Navn</th>
+            <th>Antal Personer</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var shelter in shelters)
+        {
+            <tr>
+                <td>@shelter["navn"].AsString</td>
+                <td>@shelter["antalPersoner"].AsInt32</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    private IEnumerable<BsonDocument> shelters;
+
+    protected override void OnInitialized()
+    {
+        var persistency = new PersistencyShelter();
+        shelters = persistency.GetAll();
+    }
+}
