@@ -8,10 +8,10 @@ namespace mini.Repositories;
 public class ShelterRepository : IShelter
 {
     private const string connectionString =
-        @"mongodb+srv://Nicolaiedens:Zhh57jsg@cluster0.wt3rrth.mongodb.net/";
+        @"mongodb+srv://casper:Casperemil123@cluster0.77eu8xj.mongodb.net/";
 
     private const string databaseName = "Shelterdb";
-    private const string collectionName = "Shelter";
+    private const string collectionName = "shelter_minus";
     private IMongoCollection<Shelter> collection;
 
     public ShelterRepository()

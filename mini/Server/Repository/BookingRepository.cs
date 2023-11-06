@@ -15,9 +15,9 @@
         public BookingRepository()
         {
             MongoClient client = new MongoClient(
-                @"mongodb+srv://Nicolaiedens:Zhh57jsg@cluster0.wt3rrth.mongodb.net/");
-            IMongoDatabase database = client.GetDatabase("Shelterdb");
-            _bookings = database.GetCollection<Booking>("Booking");
+                @"mongodb+srv://casper:Casperemil123@cluster0.77eu8xj.mongodb.net/");
+            IMongoDatabase database = client.GetDatabase("ShelterDB");
+            _bookings = database.GetCollection<Booking>("Bookings");
         }
 
         public async Task<IEnumerable<Booking>> GetAllBookings()
