@@ -34,3 +34,15 @@ C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Shared/obj/Debug/net7.0/ref/mini
 /Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Shared/obj/Debug/net7.0/refint/mini.Shared.dll
 /Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Shared/obj/Debug/net7.0/mini.Shared.pdb
 /Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Shared/obj/Debug/net7.0/ref/mini.Shared.dll
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\bin\Debug\net7.0\mini.Shared.deps.json
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\bin\Debug\net7.0\mini.Shared.dll
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\bin\Debug\net7.0\mini.Shared.pdb
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\mini.Shared.csproj.AssemblyReference.cache
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\mini.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\mini.Shared.AssemblyInfoInputs.cache
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\mini.Shared.AssemblyInfo.cs
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\mini.Shared.csproj.CoreCompileInputs.cache
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\mini.Shared.dll
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\refint\mini.Shared.dll
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\mini.Shared.pdb
+C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Shared\obj\Debug\net7.0\ref\mini.Shared.dll

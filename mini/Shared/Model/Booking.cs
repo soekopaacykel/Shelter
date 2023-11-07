@@ -13,6 +13,10 @@ public class Booking
 
     public string Name { get; set; } = string.Empty;
 
+    public DateTime StartDate { get; set; } = DateTime.MinValue;
+
+    public DateTime EndDate { get; set; } = DateTime.MinValue;
+
     public string Email { get; set; } = string.Empty;
 
     public string ShelterName { get; set; } = string.Empty;
