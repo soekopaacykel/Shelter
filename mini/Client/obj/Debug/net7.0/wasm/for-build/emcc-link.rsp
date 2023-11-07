@@ -1,0 +1,34 @@
+-O0
+-s ASSERTIONS=0
+-s EXPORT_ES6=1
+-g
+-v
+-s DISABLE_EXCEPTION_CATCHING=0
+-Wl,--allow-undefined
+-s ERROR_ON_UNDEFINED_SYMBOLS=0
+-s INITIAL_MEMORY=16777216
+--js-library "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/src/pal_random.lib.js"
+--extern-pre-js "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/src/es6/runtime.es6.iffe.js"
+--pre-js "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/src/es6/dotnet.es6.pre.js"
+--js-library "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/src/es6/dotnet.es6.lib.js"
+--post-js "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/src/es6/dotnet.es6.post.js"
+--extern-post-js "/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/src/es6/dotnet.es6.extpost.js"
+"/Users/Mel/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/buildTransitive/net7.0/../../runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a"
+"/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Client/obj/Debug/net7.0/wasm/for-build/pinvoke.o"
+"/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Client/obj/Debug/net7.0/wasm/for-build/driver.o"
+"/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Client/obj/Debug/net7.0/wasm/for-build/corebindings.o"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libicudata.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libicui18n.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libicuuc.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-component-debugger-static.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-component-diagnostics_tracing-stub-static.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-component-hot_reload-static.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-ee-interp.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-icall-table.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-ilgen.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-profiler-aot.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmono-wasm-eh-js.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libmonosgen-2.0.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libSystem.IO.Compression.Native.a"
+"/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13/runtimes/browser-wasm/native/libSystem.Native.a"
+-o "/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Client/obj/Debug/net7.0/wasm/for-build/dotnet.js"

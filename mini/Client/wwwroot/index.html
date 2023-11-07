@@ -11,34 +11,7 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="mini.Client.styles.css" rel="stylesheet" />
 
-    <style>
-        /* CSS styles for the loading progress */
-        .loading-progress {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #f7f7f7; /* Customize as needed */
-        }
-
-        .rotating-image {
-            animation: rotateImage 4s linear infinite; /* Increase the duration to 4 seconds */
-        }
-
-        @keyframes rotateImage {
-            from {
-                transform: rotate(0deg);
-            }
-
-            to {
-                transform: rotate(360deg);
-            }
-        }
-    </style>
+   
 </head>
 
 <body>
@@ -57,13 +30,7 @@
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
 
-    <script>
-        var image = document.querySelector('#loading-image');
-        image.onload = function () {
-            // Hide the loading screen when the image is fully loaded
-            document.querySelector('.loading-progress').style.display = 'none';
-        };
-    </script>
+    
 </body>
 
 </html>

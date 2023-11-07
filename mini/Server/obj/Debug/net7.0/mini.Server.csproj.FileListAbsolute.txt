@@ -1,190 +1,285 @@
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Client.staticwebassets.runtime.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\appsettings.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Server.staticwebassets.runtime.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Server.exe
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Server.deps.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Server.runtimeconfig.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Server.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Server.pdb
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\AWSSDK.Core.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\DnsClient.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\MongoDB.Bson.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\MongoDB.Driver.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\MongoDB.Driver.Core.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\SharpCompress.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\Snappier.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\ZstdSharp.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Client.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Shared.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Client.pdb
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\bin\Debug\net7.0\mini.Shared.pdb
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.csproj.AssemblyReference.cache
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.AssemblyInfoInputs.cache
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.AssemblyInfo.cs
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.csproj.CoreCompileInputs.cache
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.RazorAssemblyInfo.cache
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.RazorAssemblyInfo.cs
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.mini.Server.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.mini.Server.props
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mini.Server.props
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mini.Server.props
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\scopedcss\bundle\mini.Server.styles.css
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.csproj.CopyComplete
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\refint\mini.Server.dll
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.pdb
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\mini.Server.genruntimeconfig.cache
-C:\Users\cbjoe\OneDrive\Desktop\skole\app. udvikling\final_mini\mini\Server\obj\Debug\net7.0\ref\mini.Server.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\appsettings.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Client.staticwebassets.runtime.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Server.staticwebassets.runtime.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Server.exe
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Server.deps.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Server.runtimeconfig.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Server.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Server.pdb
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\AWSSDK.Core.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\DnsClient.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\MongoDB.Bson.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\MongoDB.Driver.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\MongoDB.Driver.Core.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\SharpCompress.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\Snappier.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\SQLitePCLRaw.core.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\ZstdSharp.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Client.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Shared.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Client.pdb
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\bin\Debug\net7.0\mini.Shared.pdb
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.csproj.AssemblyReference.cache
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.AssemblyInfoInputs.cache
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.AssemblyInfo.cs
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.csproj.CoreCompileInputs.cache
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.RazorAssemblyInfo.cache
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.RazorAssemblyInfo.cs
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.mini.Server.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.mini.Server.props
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mini.Server.props
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mini.Server.props
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\scopedcss\bundle\mini.Server.styles.css
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.csproj.CopyComplete
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\refint\mini.Server.dll
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.pdb
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\mini.Server.genruntimeconfig.cache
-C:\Users\Amelia\Desktop\skole\Shelter-main\mini\Server\obj\Debug\net7.0\ref\mini.Server.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Client.staticwebassets.runtime.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/appsettings.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugHost.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugProxy.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Newtonsoft.Json.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Server.staticwebassets.runtime.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Server.exe
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Server.deps.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Server.runtimeconfig.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Server.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Server.pdb
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/AWSSDK.Core.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/DnsClient.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.JSInterop.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/MongoDB.Bson.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/MongoDB.Driver.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/SharpCompress.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/Snappier.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/ZstdSharp.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Client.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Shared.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Client.pdb
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/bin/Debug/net7.0/mini.Shared.pdb
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.csproj.AssemblyReference.cache
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.AssemblyInfoInputs.cache
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.AssemblyInfo.cs
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.csproj.CoreCompileInputs.cache
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.RazorAssemblyInfo.cache
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.RazorAssemblyInfo.cs
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.mini.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.build.mini.Server.props
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.mini.Server.props
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.mini.Server.props
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/scopedcss/bundle/mini.Server.styles.css
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.csproj.CopyComplete
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/refint/mini.Server.dll
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.pdb
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/mini.Server.genruntimeconfig.cache
+C:/Users/cbjoe/OneDrive/Desktop/skole/app. udvikling/final_mini/mini/Server/obj/Debug/net7.0/ref/mini.Server.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/appsettings.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugHost.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugProxy.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Newtonsoft.Json.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Client.staticwebassets.runtime.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Server.staticwebassets.runtime.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Server.exe
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Server.deps.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Server.runtimeconfig.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Server.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Server.pdb
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/AWSSDK.Core.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/DnsClient.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.JSInterop.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/MongoDB.Bson.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/MongoDB.Driver.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/SharpCompress.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/Snappier.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/ZstdSharp.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Client.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Shared.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Client.pdb
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/bin/Debug/net7.0/mini.Shared.pdb
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.csproj.AssemblyReference.cache
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.AssemblyInfoInputs.cache
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.AssemblyInfo.cs
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.csproj.CoreCompileInputs.cache
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.RazorAssemblyInfo.cache
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.RazorAssemblyInfo.cs
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.mini.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.build.mini.Server.props
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.mini.Server.props
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.mini.Server.props
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/scopedcss/bundle/mini.Server.styles.css
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.csproj.CopyComplete
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/refint/mini.Server.dll
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.pdb
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/mini.Server.genruntimeconfig.cache
+C:/Users/Amelia/Desktop/skole/Shelter-main/mini/Server/obj/Debug/net7.0/ref/mini.Server.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/appsettings.Development.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/appsettings.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugHost.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/BrowserDebugProxy.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/BlazorDebugProxy/Newtonsoft.Json.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Client.staticwebassets.runtime.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Server.staticwebassets.runtime.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Server
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Server.deps.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Server.runtimeconfig.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Server.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Server.pdb
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/DnsClient.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Forms.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Web.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.JSInterop.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Microsoft.JSInterop.WebAssembly.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/SharpCompress.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/Snappier.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/ZstdSharp.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Client.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Shared.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Client.pdb
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/bin/Debug/net7.0/mini.Shared.pdb
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.csproj.AssemblyReference.cache
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.AssemblyInfoInputs.cache
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.AssemblyInfo.cs
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.csproj.CoreCompileInputs.cache
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.RazorAssemblyInfo.cache
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.RazorAssemblyInfo.cs
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.mini.Server.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.build.mini.Server.props
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.mini.Server.props
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.mini.Server.props
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/staticwebassets.build.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/staticwebassets.development.json
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/scopedcss/bundle/mini.Server.styles.css
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.csproj.CopyComplete
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/refint/mini.Server.dll
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.pdb
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/mini.Server.genruntimeconfig.cache
+/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/obj/Debug/net7.0/ref/mini.Server.dll

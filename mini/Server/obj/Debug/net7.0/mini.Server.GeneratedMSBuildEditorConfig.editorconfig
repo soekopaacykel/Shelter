@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = mini.Server
 build_property.RootNamespace = mini.Server
-build_property.ProjectDir = C:\Users\Amelia\source\repos\soekopaacykel\Shelter\mini\Server\
+build_property.ProjectDir = /Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Amelia\source\repos\soekopaacykel\Shelter\mini\Server
+build_property.MSBuildProjectDirectory = /Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Amelia/source/repos/soekopaacykel/Shelter/mini/Server/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[/Users/Mel/Documents/ITA/2.sem/Appudvikling/Shelter/mini/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
