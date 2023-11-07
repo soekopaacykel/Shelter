@@ -11,7 +11,7 @@ public class ShelterRepository : IShelter
         @"mongodb+srv://casper:Casperemil123@cluster0.77eu8xj.mongodb.net/";
 
     private const string databaseName = "ShelterDB";
-    private const string collectionName = "shelter_minus";
+    private const string collectionName = "shelter_beskr";
     private IMongoCollection<Shelter> collection;
 
     public ShelterRepository()

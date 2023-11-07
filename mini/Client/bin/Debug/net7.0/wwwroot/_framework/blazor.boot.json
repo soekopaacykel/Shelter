@@ -212,15 +212,15 @@
       "mscorlib.dll": "sha256-Xo3wdLenBZ41X73hGjkWTbEQZDKcQsnPFtlkePUxLY0=",
       "netstandard.dll": "sha256-qjqaAEP3hdLnU\/TnoCd8HaSa+0ruV1TpdaB2GUujGMw=",
       "System.Private.CoreLib.dll": "sha256-\/7uQ+eNo9u3H1mpgMko4D3tKZHeGRfsRjna0Dqsu62k=",
-      "mini.Shared.dll": "sha256-RZlVPLnb0FUrX6mCxL3aLBNF+eF1edGosW8OKnA2N0Y=",
-      "mini.Client.dll": "sha256-gshrcNJmvxUj\/cpJ8Aw5LU0yI9WHYK\/4mUAChslqSxA="
+      "mini.Shared.dll": "sha256-M6IPYrvlIP\/ZaCfLN\/d4XfOale80kZdvqKt3JYAWoxI=",
+      "mini.Client.dll": "sha256-ZmmCr\/L6Mr+c0qDudUTgU7Y8+R3Dag12Sj50RqFstX4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "mini.Shared.pdb": "sha256-WWysbO0NCMqNNYPaS9BcmTMl196Uk0IJtocQ78cyx78=",
-      "mini.Client.pdb": "sha256-+88GPSAekWR48RRowwBjmi5eSeWO0TjT0GJAM9TSlFc="
+      "mini.Shared.pdb": "sha256-Okqq7KzdCcNayeuPaBxNJ2KzYpQ3vuCMYvlgx\/KkGpc=",
+      "mini.Client.pdb": "sha256-OTRSvYpY5Ci7XSpv17lHavXlZ\/Z2wz8IcBETay9BaEs="
     },
     "runtime": {
       "dotnet.7.0.10.mxuaujc1x2.js": "sha256-qJB30QURoyH3y3WyayHu6nMFIx2XNOkXCez7tagGpvE=",
