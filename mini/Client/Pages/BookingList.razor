@@ -4,10 +4,10 @@
 
 <PageTitle>BOOKINGS</PageTitle>
 
-<h1>BOOKINGS</h1>
+<h1>Bookings</h1>
 
-<button @onclick="SortByShelterName">Sort by Shelter Name</button>
-<button @onclick="SortByStartDate">Sort by Start Date</button>
+<button @onclick="SortByShelterName" type="submit" class="btn btn-primary" style="background-color: #003C2B; color: white; border: none; border-radius: 4px; transition: background-color 0.3s;">Sort by Shelter Name</button>
+<button @onclick="SortByStartDate" type="submit" class="btn btn-primary" style="background-color: #003C2B; color: white; border: none; border-radius: 4px; transition: background-color 0.3s;">Sort by Start Date</button>
 
 @if (bookings == null)
 {

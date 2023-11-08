@@ -30,7 +30,4 @@
     <None Remove="loadingleaf.svg" />
     <None Remove="Pages\" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Pages\" />
-  </ItemGroup>
 </Project>
