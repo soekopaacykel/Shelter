@@ -2,10 +2,12 @@
 @using mini.Shared.Models
 @inject HttpClient Http;
 
-
 <PageTitle>BOOKINGS</PageTitle>
 
 <h1>BOOKINGS</h1>
+
+<button @onclick="SortByShelterName">Sort by Shelter Name</button>
+<button @onclick="SortByStartDate">Sort by Start Date</button>
 
 @if (bookings == null)
 {
@@ -17,22 +19,25 @@ else
         <thead>
             <tr>
                 <th>Booking ID</th>
-                <th>Shelter Name</th>
+                <th>
+                    Shelter Name
+                </th>
                 <th>Navn</th>
-                <th>Start Dato</th>
+                <th>
+                    Start Date
+                </th>
                 <th>Slut Dato</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var booking in bookings)
+            @foreach (var booking in filteredBookings)
             {
                 <tr class="bookingRow">
                     <td>@booking.BookingID</td>
-                    <td>@booking.ShelterName</td> <!-- Changed from ShelterNavn to ShelterName -->
+                    <td>@booking.ShelterName</td>
                     <td>@booking.Name</td>
-                    <td>@booking.StartDate</td>
-                    <td>@booking.EndDate</td>
-
+                    <td>@booking.StartDate.Date.ToString("dd-MM-yyyy")</td>
+                    <td>@booking.EndDate.Date.ToString("dd-MM-yyyy")</td>
                 </tr>
             }
         </tbody>
@@ -40,12 +45,44 @@ else
 }
 
 @code {
-
     private mini.Shared.Models.Booking[]? bookings;
+    private mini.Shared.Models.Booking[] filteredBookings;
+    private bool sortAscendingByShelter = true; // Track sorting order for Shelter Name.
+    private bool sortAscendingByStartDate = true; // Track sorting order for Start Date.
 
     protected override async Task OnInitializedAsync()
     {
         bookings = await Http.GetFromJsonAsync<mini.Shared.Models.Booking[]>("api/bookings");
+        filteredBookings = bookings;
     }
 
+    private void SortByShelterName()
+    {
+        if (sortAscendingByShelter)
+        {
+            filteredBookings = filteredBookings.OrderBy(booking => booking.ShelterName).ToArray();
+        }
+        else
+        {
+            filteredBookings = filteredBookings.OrderByDescending(booking => booking.ShelterName).ToArray();
+        }
+
+        sortAscendingByShelter = !sortAscendingByShelter; // Toggle sorting order.
+        sortAscendingByStartDate = true; // Reset Start Date sorting order.
+    }
+
+    private void SortByStartDate()
+    {
+        if (sortAscendingByStartDate)
+        {
+            filteredBookings = filteredBookings.OrderBy(booking => booking.StartDate).ToArray();
+        }
+        else
+        {
+            filteredBookings = filteredBookings.OrderByDescending(booking => booking.StartDate).ToArray();
+        }
+
+        sortAscendingByStartDate = !sortAscendingByStartDate; // Toggle sorting order.
+        sortAscendingByShelter = true; // Reset Shelter Name sorting order.
+    }
 }
